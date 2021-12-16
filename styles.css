@@ -72,9 +72,16 @@ body {
 }
 
 /* Contact info styles */
-.contact-info__header,
+.contact-info__header {
+    text-align: left;
+    font-size: xxx-large;
+    font-weight: bold;
+}
+
 .contact-info__sub-header {
     text-align: left;
+    font-size: x-large;
+    font-weight: bold;
 }
 
 .contact_info__header-container {
