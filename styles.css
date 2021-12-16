@@ -171,6 +171,13 @@ body {
     text-align: justify;
 }
 
+.skills__items {
+    color: var(--secondary-text-color);
+    padding-left: 20px;
+    list-style-position: inside;
+    column-count: 2;
+}
+
 /* Experience and additional info styles */
 .experiences {
     flex: 1 1 60%;
