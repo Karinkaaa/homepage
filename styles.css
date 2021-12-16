@@ -105,10 +105,6 @@ body {
     justify-content: space-between;
 }
 
-.contact-info__block--center {
-    justify-content: center;
-}
-
 .contact-info__item {
     color: var(--secondary-text-color);
     text-decoration: none;
@@ -126,11 +122,6 @@ body {
     display: flex;
     justify-content: center;
     color: var(--icon-color);
-}
-
-.contact-info__item-icon {
-    height: 1.1428rem;
-    vertical-align: text-bottom;
 }
 
 .contact-info__avatar {
@@ -237,17 +228,6 @@ body {
     text-align: left;
     margin-bottom: 20px;
     font-size: 16px;
-}
-
-.experiences__company-project-name {
-    color: var(--primary-text-color);
-    text-align: left;
-    margin-bottom: 10px;
-}
-
-.experiences__company-project-responsibilities {
-    color: var(--secondary-text-color);
-    padding-left: 20px;
 }
 
 .additional-info {
