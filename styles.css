@@ -166,11 +166,6 @@ body {
     margin-bottom: 15px;
 }
 
-.skills__text {
-    color: var(--secondary-text-color);
-    text-align: justify;
-}
-
 .skills__items {
     display: flex;
     color: var(--secondary-text-color);
